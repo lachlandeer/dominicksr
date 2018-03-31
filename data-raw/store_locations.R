@@ -36,12 +36,12 @@ for(i in 1:nrow(open_stores)) {
 
 
 # tidy up
-stores_geocoded <- open_stores %>%
+store_locations <- open_stores %>%
         dplyr::select(-full_address) %>%
         dplyr::rename(geo_address = geoAddress,
                       latitude = lat,
                       longtitude = lon)
 
 # save
-readr::write_csv(stores_geocoded, "data-raw/stores_geocoded.csv")
-devtools::use_data(stores_geocoded, overwrite = TRUE, compress = 'xz')
+readr::write_csv(store_locations, "data-raw/store_locations.csv")
+devtools::use_data(store_locations, overwrite = TRUE, compress = 'xz')
