@@ -19,5 +19,5 @@
 #'   \item{longitude}{Longitude of store location, from google maps}
 #'   \item{geo_address}{Address of the store based on latitude and longitude}
 #' }
-#' @source pages 14--19 of \url{https://research.chicagobooth.edu/-/media/faculty/docs/dominicks-manual-and-codebook_kiltscenter2013.pdf?la=en&hash=955F55CE727ED5790C6D7B4F53E40A3DFA3C99DD
+#' @source pages 14--19 of \url{https://research.chicagobooth.edu/-/media/faculty/docs/dominicks-manual-and-codebook_kiltscenter2013.pdf?la=en&hash=955F55CE727ED5790C6D7B4F53E40A3DFA3C99DD}
 "store_locations"
