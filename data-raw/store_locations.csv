@@ -1,0 +1,96 @@
+store,city,price_tier,zone,zip,address
+2,River Forest,high,1,60305,7501 W. North Ave
+4,Park Ridge,medium,2,60068,closed
+5,Palatine,medium,2,60067,223 Northwest HWY
+8,Oak Lawn,low,5,60435,8700 S. Cicero Ave
+9,Morton Grove,medium,2,60053,6931 Dempster
+12,Chicago,high,7,60660,6009 N. Broadway Ave
+14,Glenview,high,1,60025,1020 Waukegan Rd
+18,River Grove,low,5,60171,8355 W. Belmont Ave
+19,Glen Ellyn,,,60137,closed
+21,Hanover Park,cub_fighter,6,60103,1440 irving Park Rd
+25,Chicago,,,60639,closed
+28,Mt Prospect,medium,2,60054,1145-55 Mt Prospect Pz
+32,Park Ridge,high,1,60068,1900 S. Cumberland Ave
+33,Chicago,high,7,60657,3012 N. Broadway Ave
+39,Waukegan,,,60085,closed
+40,Bridgeview,cub_fighter,6,60455,8825 S. Harlem Ave
+44,Western Spring,medium,2,60558,14 Garden Market St
+45,Wheeling,medium,2,60090,550 W. Dundee Road
+46,Carol Stream,low,5,60187,closed
+47,Addison,medium,2,60101,545 W. Lake St
+48,Schaumburg,medium,2,60193,20 E. Golf Rd
+49,Downers Grove,medium,2,60515,120 E. Ogden Ave
+50,Hickory Hills,medium,2,60457,8631 W. 95th St
+51,Palos Heights,medium,3,60463,6401 W. 127th St
+52,Northbrook,high,1,60062,4125 Dundee Rd
+53,Chicago,high,7,60062,3145 W. Pratt Ave
+54,Naperville,medium,2,60540,1295 E Ogden Ave
+55,Tinley Park,,,60577,closed
+56,Countryside,medium,2,60525,6704 Joliet Rd
+59,Crystal Lake,cub_fighter,6,60014,6000 Northwest HWY
+60,Downers Grove,,,60515,closed
+62,Northfield,high,1,60093,1822 Willow Rd
+64,Vila Park,medium,2,60181,302 W. North Ave
+65,Hanover Park,medium,2,60103,closed
+67,Oak Brook Terrace,low,4,60521,17W675 Roosevelt Rd
+68,Chicago,high,1,60625,5233 N Lincoln Ave
+70,Joliet,cub_fighter,6,60435,2132 Jefferson St
+71,North Riverside,high,1,60546,7401 W 25th St
+72,Lincolnwood,high,1,60646,7225 N. Cicero Ave
+73,Chicago,low,5,60629,7050 S. Pulaski Rd
+74,Norridge,medium,2,60634,7000 W. Forest Ave
+75,Chicago,high,7,60640,5235 N. Sheridan Rd
+76,Chicago,medium,2,60618,3300 W. Belmont
+77,Vernon Hills,cub_fighter,6,60061,Hawthorne Village Comns
+78,Downers Grove,cub_fighter,6,60516,7241 Lemont Rd
+80,Arlington Heights,cub_fighter,6,60005,325 Palatine Rd
+81,Mt Prospect,medium,2,60056,1042 S. Elmhurst Rd
+83,Lansing,cub_fighter,6,60438,17365 Torrence Ave
+84,Orland Park,medium,2,60462,15080 S. La Grange Rd
+86,Chicago,medium,2,60618,3350 Western Ave
+88,Bensenville,medium,2,60106,1145 S York Rd
+89,Chicago,medium,2,60632,4700 S Kedzie Ave
+90,Chicago,medium,10,60617,3454 E 118th St
+91,Oak Lawn,medium,2,60453,11024 S Cicero Ave
+92,Hazel Crest,medium,2,60429,3330 W 183rd St
+93,Evanston,high,1,60202,525 Chicago Ave
+94,Bloomingdale,low,5,60108,166 E Lake St
+95,Chicago,high,1,60634,3649 N Central Ave
+97,Aurora,high,8,60506,1971 W Galena Blvd
+98,Chicago,medium,12,60638,5829 S Archer Ave
+100,Chicago,high,11,60698,3145 S Ashland Ave
+101,Des Plaines,medium,12,60016,1555 Lee St
+102,Merrionette Park,low,15,60655,3243 115th St
+103,Bolingbrook,low,15,60439,271 S Bolingbrook Dr
+104,St Charles,high,8,60174,2063 State Route 38
+105,Melrose Park,medium,12,60160,4200 W Lake St
+106,Montgomery,high,8,60538,1840 Douglas Rd
+107,Westchester,medium,2,60153,3020 S Wolf Rd
+108,Park Forest,,,60466,closed
+109,Bannouckburn,high,7,60015,2503 Waukegan Rd
+110,East Dundee,medium,2,60118,535 Dundee Ave
+111,Chicago,high,1,60620,122 W 79th St
+112,Buffalo Grove,low,14,60090,1160 Lake Cook Rd
+113,Chicago,medium,2,60646,6312 N Nagle Ave
+114,Calumet City,medium,12,60409,1968 Sibley Ave
+115,Naperville,medium,12,60540,1300 S Naper Blvd
+116,Elmhurst,medium,2,60126,535 W St Charles Rd
+117,Schaumburg,medium,2,60193,580 S Roselle Rd
+118,Morton Grove,medium,10,60053,5747 Dempster Ave
+119,Buffalo Grove,medium,2,60090,45 E Dundee Rd
+121,Willowbrook,medium,2,60514,6300 S Robert Kingery
+122,Hoffman Estates,cub_fighter,16,60194,2575 W Golf Rd
+123,Chicago,high,1,60630,4014 W Lawrence Ave
+124,Oak Park,high,1,60302,259 Lake St
+128,Chicago,high,11,60645,6623 N Damen Ave
+126,Wheaton,medium,12,60187,Danada East Square
+129,Lake Zurich,medium,12,60047,4345 S Rand Rd
+131,Rolling Meadows,medium,12,60008,2801 Kirchoff Rd
+130,Chicago,high,1,60649,2101 E 71st St
+132,Matteson,low,15,60443,4233 W 211th St
+133,Niles,medium,12,60648,8900 Greenwood Ave
+134,West Chicago,medium,13,60185,RT.59/North Ave
+136,Buffalo Grove,medium,10,60089,450 Half Day Rd
+137,Evanston,high,1,60201,2748 Green Bay Rd
+139,Bloomingdale,,,60108,144 S Gary Ave
