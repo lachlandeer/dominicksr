@@ -35,7 +35,7 @@ for(i in 1:nrow(open_stores)) {
 } # end for
 
 
-#tidy up
+# tidy up
 stores_geocoded <- open_stores %>%
         dplyr::select(-full_address) %>%
         dplyr::rename(geo_address = geoAddress,
@@ -43,3 +43,5 @@ stores_geocoded <- open_stores %>%
                       longtitude = lon)
 
 # save
+readr::write_csv(stores_geocoded, "data-raw/stores_geocoded.csv")
+devtools::use_data(stores_geocoded, overwrite = TRUE, compress = 'xz')
