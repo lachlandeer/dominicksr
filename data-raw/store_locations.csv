@@ -1,4 +1,4 @@
-store,city,price_tier,zone,zip,address,latitude,longtitude,geo_address
+store_id,city,price_tier,zone,zip,address,latitude,longtitude,geo_address
 2,River Forest,high,1,60305,7501 W North Ave,41.9084242,-87.8128299,"7501 w north ave, river forest, il 60305, usa"
 5,Palatine,medium,2,60067,223 Northwest HWY,42.1145705,-88.0336761,"223 n northwest hwy, palatine, il 60067, usa"
 8,Oak Lawn,low,5,60435,8700 S Cicero Ave,41.7338246,-87.7434269,"8700 s cicero ave, oak lawn, il 60453, usa"
