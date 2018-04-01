@@ -38,7 +38,8 @@ for(i in 1:nrow(open_stores)) {
 # tidy up
 store_locations <- open_stores %>%
         dplyr::select(-full_address) %>%
-        dplyr::rename(geo_address = geoAddress,
+        dplyr::rename(store_id = store,
+                      geo_address = geoAddress,
                       latitude = lat,
                       longtitude = lon)
 
